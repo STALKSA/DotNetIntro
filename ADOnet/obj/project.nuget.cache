@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QX2u9NRHxWUI3UOH8SBr563Bbgot8oXwFt7hAJP0Xt3RMVmmmi5twkzm0zT1pzRdH65QWEQKZHE6fShdhrbY3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ksy18\\OneDrive\\Рабочий стол\\ADO\\IntroADOnet\\ADOnet\\ADOnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ksy18\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0-preview.1.23111.4\\microsoft.data.sqlite.8.0.0-preview.1.23111.4.nupkg.sha512",
+    "C:\\Users\\Ksy18\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0-preview.1.23111.4\\microsoft.data.sqlite.core.8.0.0-preview.1.23111.4.nupkg.sha512",
+    "C:\\Users\\Ksy18\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Ksy18\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\Ksy18\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Ksy18\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Ksy18\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
